@@ -1,1 +1,10 @@
-# RFT
+A megbízóval való konferencia során megismert elvárások alapján minden leírva a projekt tervezőben.
+Használt nyelvek:
+-HTML
+-CSS
+-PHP
+-Javascript
+
+Felelősök:
+-Bánka Milán
+-Slézia Péter
